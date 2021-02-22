@@ -1,0 +1,17 @@
+C:\Users\nann8059\source\repos\Webbrowseren\Webbrowseren\bin\Debug\Webbrowseren.exe.config
+C:\Users\nann8059\source\repos\Webbrowseren\Webbrowseren\bin\Debug\Webbrowseren.exe
+C:\Users\nann8059\source\repos\Webbrowseren\Webbrowseren\bin\Debug\Webbrowseren.pdb
+C:\Users\nann8059\source\repos\Webbrowseren\Webbrowseren\obj\Debug\Webbrowseren.csprojAssemblyReference.cache
+C:\Users\nann8059\source\repos\Webbrowseren\Webbrowseren\obj\Debug\Webbrowseren.csproj.CoreCompileInputs.cache
+C:\Users\nann8059\source\repos\Webbrowseren\Webbrowseren\obj\Debug\Webbrowseren.exe
+C:\Users\nann8059\source\repos\Webbrowseren\Webbrowseren\obj\Debug\Webbrowseren.pdb
+C:\Users\nann8059\source\repos\Webbrowseren\Webbrowseren\bin\Debug\AngleSharp.Css.dll
+C:\Users\nann8059\source\repos\Webbrowseren\Webbrowseren\bin\Debug\AngleSharp.dll
+C:\Users\nann8059\source\repos\Webbrowseren\Webbrowseren\bin\Debug\HtmlSanitizer.dll
+C:\Users\nann8059\source\repos\Webbrowseren\Webbrowseren\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nann8059\source\repos\Webbrowseren\Webbrowseren\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\nann8059\source\repos\Webbrowseren\Webbrowseren\bin\Debug\AngleSharp.xml
+C:\Users\nann8059\source\repos\Webbrowseren\Webbrowseren\bin\Debug\AngleSharp.Css.xml
+C:\Users\nann8059\source\repos\Webbrowseren\Webbrowseren\bin\Debug\HtmlSanitizer.xml
+C:\Users\nann8059\source\repos\Webbrowseren\Webbrowseren\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nann8059\source\repos\Webbrowseren\Webbrowseren\obj\Debug\Webbrowseren.csproj.CopyComplete
